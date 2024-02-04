@@ -23,6 +23,3 @@ function squareRoot(x){
     }
     return z;
 }
-
-debitcard
-badcredit
